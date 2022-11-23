@@ -1,2 +1,2 @@
-# my_shit
+# my_project
 my project
